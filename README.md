@@ -57,7 +57,7 @@ Click review+create > create (this will take a while to deploy)  <br/>
 <br />
 <br />
 VM is created (My VM):  <br/>
-<img src="https://i.imgur.com/Gellx3R.png" height="80%" width="90%" alt="Azure Sentinel"/>
+<img src="https://i.imgur.com/QWHB6TF.png" height="80%" width="90%" alt="Azure Sentinel"/>
 <h3>Log Analytics Workspaces:</h3>
 <br />
 Now, search log analytics workspace:  <br/>
@@ -81,7 +81,7 @@ From data collection select all events > save <br/>
 <br />
 Go to log analytics workspaces and connect to VM: <br/>
 log analytics workspaces > select your VM > again select VM > click the VM > and connect  <br/>
-<img src="https://i.imgur.com/Weolx7a.png" height="80%" width="90%" alt="Azure Sentinel"/>
+<img src="https://i.imgur.com/D0FhdUw.png" height="80%" width="90%" alt="Azure Sentinel"/>
 <br />
 VM is connecting:  <br/>
 <img src="https://i.imgur.com/7ryDar5.png" height="80%" width="90%" alt="Azure Sentinel"/>
@@ -95,7 +95,7 @@ Click create azure sentinel > add the listed VM: <br/>
 <img src="https://i.imgur.com/X9rSk9h.png" height="80%" width="90%" alt="Azure Sentinel"/>
 <br />
 Go back to previous windows tab and open your VM > copy the public IP address:  <br/>
-<img src="https://i.imgur.com/Obnwfef.png" height="80%" width="90%" alt="Azure Sentinel"/>
+<img src="https://i.imgur.com/IQBHnOa.png" height="80%" width="90%" alt="Azure Sentinel"/>
 <br />
 <h3>Connecting VM via RDP:</h3>
 Open the remote desktop connection (on your own computer)  <br/>
